@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../assets/brand/sonic-forage-logo.svg" alt="Sonic Forage - forkable AI DJ / creative-agent starter kit" width="100%" />
+</p>
+
 # Sonic Forage
 
 **Fork the signal. Build your own intergalactic DJ / creative-agent cockpit.**
