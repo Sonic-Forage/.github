@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sonic-Forage/.github/main/assets/brand/sonic-forage-banner.png" alt="Sonic Forage - forkable AI DJ / creative-agent starter kit" width="100%" />
+  <img src="https://raw.githubusercontent.com/Sonic-Forage/.github/main/assets/brand/sonic-forage-banner-v2.png" alt="Sonic Forage - forkable AI DJ / creative-agent starter kit" width="100%" />
 </p>
 
 # Sonic Forage
